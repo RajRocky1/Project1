@@ -1,6 +1,6 @@
 # Project 1: Personal Profile Card
 
-## Learning Objectives
+i love me
 
 ### HTML Concepts:
 1. **Semantic HTML**: Use `<header>`, `<section>`, and `<footer>` tags
